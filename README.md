@@ -47,3 +47,6 @@ See the final documentation file included in this repository.
 
 ### Database Design (ERD)
 ![ERD](erd.png)
+
+## Note
+This database uses sample data for demonstration purposes only.
