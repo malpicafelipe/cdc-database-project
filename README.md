@@ -27,3 +27,23 @@ The system manages:
 
 ## Documentation
 See the final documentation file included in this repository.
+
+## Screenshots
+
+### System Navigation
+![Navigation](navigation-form.png)
+
+### Volunteer Form
+![Volunteer](volunteer-form.png)
+
+### Employee Form
+![Employee](employee-form.png)
+
+### Query Results
+![Query](query-results.png)
+
+### Report Example
+![Report](report.png)
+
+### Database Design (ERD)
+![ERD](erd.png)
